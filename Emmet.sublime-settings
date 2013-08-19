@@ -1,3 +1,5 @@
 {
-	"stylus.valueSeparator": false
+	"preferences": {
+		"stylus.valueSeparator": ": "
+	}
 }
