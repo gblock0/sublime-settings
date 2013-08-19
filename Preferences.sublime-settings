@@ -1,15 +1,23 @@
 {
-"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-
-// The number of spaces a tab is considered equal to
-"tab_size": 2,
-
-// If enabled, will highlight any line with a caretj
-"highlight_line": false,
-
-// Set to true to automatically save files when switching to a different file
-// or application
-"save_on_focus_lost": false,
-    
-"ignored_packages":[]
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 12.0,
+	"highlight_line": false,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"save_on_focus_lost": false,
+	"scroll_past_end": true,
+	"tab_size": 2
 }

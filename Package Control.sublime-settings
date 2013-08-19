@@ -1,8 +1,29 @@
 {
 	"installed_packages":
 	[
+		"AdvancedNewFile",
+		"CoffeeScript",
+		"Emmet",
+		"Emmet Css Snippets",
 		"Github Tools",
+		"Guard",
+		"HTML5",
+		"jQuery",
+		"JsFormat",
 		"Package Control",
+		"Placeholders",
+		"PlainTasks",
+		"Pretty JSON",
+		"Rails Developer Snippets",
+		"Rails Latest Migration",
+		"Rails Partial",
+		"Rake",
+		"RSpec",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeJava",
+		"SublimeLinter",
+		"ToggleQuotes",
 		"Tomorrow Color Schemes"
 	]
 }
