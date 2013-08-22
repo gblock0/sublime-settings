@@ -1,7 +1,9 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": false,
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
@@ -11,7 +13,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"SublimeBlockCursor"
 	],
 	"indent_guide_options":
 	[
@@ -20,8 +21,7 @@
 	],
 	"save_on_focus_lost": false,
 	"scroll_past_end": true,
-	"caret_style": "phase",
-	"fade_fold_buttons": false,
 	"tab_size": 2,
-	"theme": "Flatland Dark.sublime-theme"
+	"theme": "Flatland Dark.sublime-theme",
+	"vintage_start_in_command_mode": true
 }
